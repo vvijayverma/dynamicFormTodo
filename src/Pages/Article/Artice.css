@@ -1,0 +1,28 @@
+
+.article-container{
+    width: 1318px;
+    background-color: #9A9A9A;
+}
+
+/* .article-header{
+    width: 1440px;
+    height: 164px;
+} */
+
+.article-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #ffffff;
+    margin: 10px 40px;
+    height: 50px;
+}
+
+ul.article-nav-list {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    list-style: none;
+}
